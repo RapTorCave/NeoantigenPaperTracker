@@ -1,4 +1,4 @@
-# SerovaPaperTracker
+# NeoantigenPaperTracker
 Tracking relevant research papers for cancer vaccines design etc
 # 🧬 Neoantigen Vaccine Paper Tracker
 
